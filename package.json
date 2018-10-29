@@ -1,0 +1,24 @@
+{
+  "name": "gulp-ng-pug-to-inline",
+  "version": "0.0.2",
+  "description": "Task runner to convert a pug written angularcomponent to a html inline component",
+  "main": "lib/index.js",
+  "dependencies": {
+    "event-stream": "4.0.1",
+    "gulp-util": "3.0.8",
+    "map-stream": "0.0.7",
+    "pug": "2.0.3"
+  },
+  "devDependencies": {
+    "assertthat": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwiesmueller/gulp-ng-pug-to-inline.git"
+  },
+  "author": "Martin Wiesmüller",
+  "license": "MIT"
+}
